@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Güneş Koruma Oyunu</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="game-container">
+        <div class="hud">
+            <div class="score">Puan: <span id="score">0</span></div>
+            <div class="level">Seviye: <span id="level">1</span></div>
+            <div class="clouds-info">Bulut: <span id="clouds-destroyed">0</span>/<span id="clouds-left">10</span></div>
+        </div>
+        <canvas id="gameCanvas"></canvas>
+        <div id="levelUp" class="level-up">
+            <h2>Seviye Atladın!</h2>
+            <div class="options">
+                <button id="powerWeapon">Daha Güçlü Silah</button>
+                <button id="speedMovement">Daha Hızlı Hareket</button>
+            </div>
+        </div>
+        <div id="gameOver" class="game-over">
+            <h2>Oyun Bitti!</h2>
+            <button id="restartGame">Yeniden Başla</button>
+        </div>
+    </div>
+    <script src="game.js"></script>
+</body>
+</html>
