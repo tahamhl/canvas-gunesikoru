@@ -97,8 +97,6 @@ Oyunun çeşitli parametrelerini `game.js` dosyasından değiştirebilirsiniz:
 4. Branch'inize push edin (`git push origin feature/amazing-feature`)
 5. Pull Request açın
 
-### Lisans
-Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosyasına bakın.
 
 ---
 
