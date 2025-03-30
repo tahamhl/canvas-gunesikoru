@@ -5,9 +5,8 @@
 **🎮 [Oyunu oynamak için tıklayın / Click to play the game](https://tahamehel.tr/game)**
 
 ## 📷 Oyun Görüntüleri / Game Screenshots
+![opera_OyE9F1Ec42](https://github.com/user-attachments/assets/7c267d1e-7dc7-4670-9536-c34be7f5fc25)
 
-![Oyun Ekran Görüntüsü 1](screenshots/screenshot1.jpg)
-![Oyun Ekran Görüntüsü 2](screenshots/screenshot2.jpg)
 
 ## 🇹🇷 Türkçe
 
