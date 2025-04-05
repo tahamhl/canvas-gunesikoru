@@ -122,7 +122,7 @@ Sun Protection Game is a browser-based 2D game developed using HTML5 Canvas and 
 ### Installation
 1. Clone the project to your computer:
    ```
-   git clone https://github.com/username/sun-protection-game.git
+   git clone https://github.com/tahamhl/canvas-gunesikoru.git
    ```
 2. Navigate to the downloaded folder:
    ```
