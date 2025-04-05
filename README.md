@@ -30,7 +30,7 @@ Güneş Koruma Oyunu, HTML5 Canvas ve JavaScript kullanılarak geliştirilmiş, 
 ### Kurulum
 1. Projeyi bilgisayarınıza indirin:
    ```
-   git clone https://github.com/kullaniciadi/gunes-koruma-oyunu.git
+   git clone https://github.com/tahamhl/canvas-gunesikoru.git
    ```
 2. İndirdiğiniz klasöre gidin:
    ```
